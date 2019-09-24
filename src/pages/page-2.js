@@ -15,7 +15,7 @@ export default function SecondPage() {
       <PrismaDbQuery />
       <Link to="/">Go back to the homepage</Link>
       <br />
-      <Link to="/page-2">Go back to the second page</Link>
+      <Link to="/page-3">Send a db mutation on page 3</Link>
     </Layout>
   )
 }
