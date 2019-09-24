@@ -37,6 +37,7 @@ function PrismaDbMutation() {
       variables: {
         text,
       },
+      refetchQueries: ["MESSAGES_QUERY"],
     }
   )
 
