@@ -15,3 +15,5 @@ Build site and run functions locally
 View site on [http://localhost:8888](http://localhost:8888)
 
 View graphql playground on [http://localhost:8888/.netlify/functions/graphql](http://localhost:8888/.netlify/functions/graphql)
+
+[View demo app deployed on netlify](https://gatsby-serverless.netlify.com/)
