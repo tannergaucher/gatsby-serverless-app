@@ -19,6 +19,8 @@ export default function IndexPage() {
       </div>
       <HelloFromServer />
       <Link to="/page-2/">Query the database on page 2</Link>
+      <br />
+      <Link to="/page-3/">Send a database mutation on page 3</Link>
     </Layout>
   )
 }

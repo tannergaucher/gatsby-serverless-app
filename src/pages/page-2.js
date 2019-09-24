@@ -14,6 +14,8 @@ export default function SecondPage() {
       <p>Welcome to page 2</p>
       <PrismaDbQuery />
       <Link to="/">Go back to the homepage</Link>
+      <br />
+      <Link to="/page-2">Go back to the second page</Link>
     </Layout>
   )
 }
